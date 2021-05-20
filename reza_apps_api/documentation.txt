@@ -1,0 +1,6 @@
+cara install virtual environment
+    virtualenv env
+    env\Scripts\activate.bat
+
+cara install requirements
+    pip install -r requirement.txt
